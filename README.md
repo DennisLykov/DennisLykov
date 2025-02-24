@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DennisLykov
-- 👀 I’m interested in Azure Data Engineering and Data Science
-- 🌱 I’m currently learning DP 100, DP 203
-- 💞️ I’m looking to collaborate on the exams topics
+- 👀 I’m interested in Data Engineering and Data Science
+- 🌱 I’m working on a variety of Microsoft Fabric implementations
+- 💞️ I’m looking to collaborate on MIcrosoft Fabric
 - 📫 How to reach me: via GitHub
 
 <!---
